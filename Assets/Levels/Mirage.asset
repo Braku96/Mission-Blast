@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e87602bbaf309b049bd7c551e7c6d9c9, type: 3}
+  m_Name: Mirage
+  m_EditorClassIdentifier: Assembly-CSharp::LevelData
+  levelNumber: 8
+  levelName: Mirage
+  levelCardImage: {fileID: 89278092580981280, guid: be330237de92a234a8a9156699829d53, type: 3}
+  targetScoreOneStar: 2500
+  targetScoreTwoStar: 4500
+  targetScoreThreeStar: 7500
+  timeLimit: 100
+  blockedCells: 010000000100000001000100010001000100000001000000010000000000000000000000000000000000000000000000000000000000000001000000010000000100010001000100010000000100000001

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e87602bbaf309b049bd7c551e7c6d9c9, type: 3}
+  m_Name: Desert King
+  m_EditorClassIdentifier: Assembly-CSharp::LevelData
+  levelNumber: 10
+  levelName: Desert King
+  levelCardImage: {fileID: 4764098372562798367, guid: b5bab039a33b9424aad80ec3303484a2, type: 3}
+  targetScoreOneStar: 5000
+  targetScoreTwoStar: 8000
+  targetScoreThreeStar: 12000
+  timeLimit: 120
+  blockedCells: 000000000000000000000000000000000000000000000000000000000000000000000000000101010101010100000100000000000100000101000000010100000100010001000100000000000100000000
